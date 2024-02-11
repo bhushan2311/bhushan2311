@@ -2,7 +2,7 @@
 <h3 align="center">A passionate React.js developer and a Competitive Programmer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on an E-commerce project(MERN)<br>🌱 I’m currently learning Next.js<br>💬 Ask me about React.js, Core Java<br>⚡ Fun fact
+🔭 I’m currently working on an E-commerce project(MERN)<br>🌱 I’m currently learning Next.js<br>💬 Ask me about React.js, Core Java<br>
 
 
 ## 🌐 Socials:
